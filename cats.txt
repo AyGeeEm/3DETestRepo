@@ -1,2 +1,6 @@
 Yonash Petit
+<<<<<<< HEAD
 hacked trollolololol!1!1!!!!1!
+=======
+Nickolas Klinkhammer
+>>>>>>> 1061ac18c867a17cb4f2514024f323b306a83973
